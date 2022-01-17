@@ -1,5 +1,5 @@
 
-## Olá, eu sou a Juliana Gonçalves!
+## Hi, I'm Juliana Gonçalves!
 
 <div>
   <a href="https://github.com/juuwes">
