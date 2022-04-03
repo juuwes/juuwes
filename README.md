@@ -1,5 +1,7 @@
 
-## Hi! I'm Juliana Gonçalves! :wink:
+### I'm Juliana Gonçalves!    💜 
+
+problematizando e tentando resolver tudo há vinte e cinco anos. 
 
 <div>
   <a href="https://github.com/juuwes">
