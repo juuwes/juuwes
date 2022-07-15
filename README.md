@@ -19,7 +19,7 @@
 
 ### Hello World! 👩‍💻
 
-Tenho 26 anos, moro na Baixada Santista/SP e mergulhei recentemente no universo da programação e me apaixonei! 💙
+Tenho 26 anos, sou de São Paulo e mergulhei recentemente no universo da programação e me apaixonei! 💙
 Gosto de separar as coisas por cores, inconformada com um tanto de coisa e curiosa por um outro tanto de coisa.
 
 🧠 Tenho estudando Java e venho aprendendo sobre AWS.
