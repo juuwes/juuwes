@@ -8,11 +8,11 @@
 </a> 
 
 <a href="mailto:contatosilvajuliana@gmail.com">
-<img width="40px" src="https://user-images.githubusercontent.com/93749428/179130597-8f25f956-9a16-450d-afa8-256dd5e38805.png" alt="gmail" style="vertical-align:top;">
+<img width="40px" src="https://user-images.githubusercontent.com/93749428/179131025-51424ff1-7586-4360-a9a9-ef9c57364910.png" alt="gmail" style="vertical-align:top;">
 </a>
 
  <a href="https://www.linkedin.com/in/contatosilvajuliana">
- <img align="left" width="40px" src="https://user-images.githubusercontent.com/93749428/179131025-51424ff1-7586-4360-a9a9-ef9c57364910.png" alt="linkedin" style="vertical-align:top;">
+ <img align="left" width="40px" src=" https://user-images.githubusercontent.com/93749428/179130597-8f25f956-9a16-450d-afa8-256dd5e38805.png" alt="linkedin" style="vertical-align:top;">
  </a>
   
 </div>
@@ -24,7 +24,7 @@ Gosto de separar as coisas por cores, inconformada com um tanto de coisa e curio
 
 🧠 Tenho estudando Java e venho aprendendo sobre AWS.
 
-🦄 Estou em transição de carreira.
+🦄 Em transição de carreira.
 <div display="inline-block">
 
 #### Tecnolgias e Ferramentas: 
