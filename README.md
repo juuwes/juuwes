@@ -12,7 +12,7 @@
 </a>
 
  <a href="https://www.linkedin.com/in/contatosilvajuliana">
- <img align="left" width="40px" src=" https://user-images.githubusercontent.com/93749428/179130597-8f25f956-9a16-450d-afa8-256dd5e38805.png" alt="linkedin" style="vertical-align:top;">
+ <img align="left" width="40px" src="https://user-images.githubusercontent.com/93749428/179130597-8f25f956-9a16-450d-afa8-256dd5e38805.png" alt="linkedin" style="vertical-align:top;">
  </a>
   
 </div>
