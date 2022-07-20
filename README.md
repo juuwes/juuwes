@@ -27,7 +27,7 @@ Gosto de separar as coisas por cores, inconformada com um tanto de coisa e curio
 🦄 Em transição de carreira.
 <div display="inline-block">
 
-#### Tecnolgias e Ferramentas: 
+#### Tecnologias e Ferramentas: 
 
 <img align="center" alt="Ju-Java" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
