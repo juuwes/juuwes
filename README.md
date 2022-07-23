@@ -37,7 +37,7 @@ Gosto de separar as coisas por cores, inconformada com um tanto de coisa e curio
 
 <img align="center" alt="Ju-GitHub" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
-<img align="center" alt="Ju-MySQl" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="Ju-Linux" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 <img align="center" alt="Ju-Css" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
