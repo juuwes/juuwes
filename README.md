@@ -22,7 +22,7 @@
 Tenho 26 anos, sou de São Paulo e mergulhei recentemente no universo da programação e me apaixonei! 💙
 Gosto de separar as coisas por cores, inconformada com um tanto de coisa e curiosa por um outro tanto de coisa.
 
-🧠 Tenho estudando Java e venho aprendendo sobre AWS.
+🧠 Tenho estudado Java e venho aprendendo sobre AWS.
 
 🦄 Em transição de carreira.
 <div display="inline-block">
