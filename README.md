@@ -22,7 +22,7 @@
 Tenho 26 anos, sou de São Paulo e mergulhei recentemente no universo da programação e me apaixonei! 💙
 Gosto de separar as coisas por cores, inconformada com um tanto de coisa e curiosa por um outro tanto de coisa.
 
-🧠 Tenho estudado Java e venho aprendendo sobre AWS.
+🧠 Tenho estudado Java e venho aprendendo sobre Salesforce
 
 🦄 Em transição de carreira.
 <div display="inline-block">
@@ -34,14 +34,15 @@ Gosto de separar as coisas por cores, inconformada com um tanto de coisa e curio
 <img align="center" alt="Ju-Spring" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
 <img align="center" alt="Ju-Git" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
+          
 <img align="center" alt="Ju-GitHub" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-<img align="center" alt="Ju-Linux" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 <img align="center" alt="Ju-Css" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 <img align="center" alt="Ju-Html" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="Ju-Sales" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+          
 
 </div>
 </br>
