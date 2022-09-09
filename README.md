@@ -39,10 +39,7 @@ Gosto de separar as coisas por cores, inconformada com um tanto de coisa e curio
 
 <img align="center" alt="Ju-Css" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img align="center" alt="Ju-Html" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="Ju-Sales" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
-          
+<img align="center" alt="Ju-Html" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">          
 
 </div>
 </br>
