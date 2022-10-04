@@ -16,7 +16,7 @@
 </div>
 <h3> </h3>
 <div align="justify">
-<img align="left" width="100px" src="https://user-images.githubusercontent.com/93749428/193701140-d209942e-443c-4d47-b866-f709b686e101.png"> Curiosa em transição de carreira e em busca constante por conhecimento, decidi trilhar meu caminho na área de tecnologia, onde me encontrei e continuo me encontrando em cada passo dessa jornada. Sou estudante do curso de Imersão Java Xpert: Full Stack Development e me aventuro por ai, descobrindo e aprendendo coisas novas!
+<img align="left" width="130px" src="https://user-images.githubusercontent.com/93749428/193701140-d209942e-443c-4d47-b866-f709b686e101.png"> Curiosa em transição de carreira e em busca constante por conhecimento, decidi trilhar meu caminho na área de tecnologia, onde me encontrei e continuo me encontrando em cada passo dessa jornada. Sou estudante do curso de Imersão Java Xpert: Full Stack Development e me aventuro por ai, descobrindo e aprendendo coisas novas!
 </div>
 
 <h3>Tecnologias: </h3> 
