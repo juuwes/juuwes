@@ -33,3 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuwes&layout=compact&langs_count=7&theme=dark"/>
 </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=juuwes&color=orange&style=for-the-badge">
+</div>
