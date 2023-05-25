@@ -30,7 +30,4 @@ Banco de Dados: <strong>PostgreSQL</strong>.
 </a>
 </p>
 
-<a href="https://github.com/juuwes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuwes&layout=compact&langs_count=7&theme=transparent"/>
-
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juuwes&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
