@@ -7,11 +7,11 @@ Carreira desenvolvida atuando no segmento de hospitalar e comercial, com vivênc
 </p>
 
 <p align="left">
-Linguagens: <strong>Golang</strong> e <strong>Java</strong>.
+Linguagens: <strong>Java</strong>.
 </p>
 
 <p align="left">
-Banco de Dados: <strong>PostgreSQL</strong> e <strong>MySQL</strong>.
+Banco de Dados: <strong>PostgreSQL</strong>.
 </p>
 <br>
 
