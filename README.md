@@ -14,7 +14,6 @@ Linguagens: <strong>Java</strong>.
 Banco de Dados: <strong>PostgreSQL</strong>.
 </p>
 <br>
-
 <p align="left">
 <strong>Contatos:</strong>
 </p>
