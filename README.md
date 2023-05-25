@@ -29,5 +29,3 @@ Banco de Dados: <strong>PostgreSQL</strong>.
 <img src="https://img.shields.io/badge/Gmail-AF000C?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top;">
 </a>
 </p>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juuwes&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
